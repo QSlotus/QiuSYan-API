@@ -9,7 +9,7 @@
 
 <script>
     function getFileContent() {
-      fetch('https://api.qiusyan.top/api.php')
+      fetch('/api.php')
         .then(response => response.text())
         .then(data => {
           // 在这里处理文件内容
