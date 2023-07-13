@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta charset='UTF-8'>
+    <script src='assets/js/heart.js'></script>
     <meta name='viewport' content='width=device-width initial-scale=1'>
     <link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
     <link href='assets/css/typora.css' rel="stylesheet">
