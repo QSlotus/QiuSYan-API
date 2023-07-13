@@ -1,5 +1,5 @@
 # YiYan-php
 
-一言的php简单实现，项目部署于vercel。
+php简单实现随机一言，项目部署于Vercel。
 <br>
-欢迎PR！
+数据文件是`data.dat`，欢迎PR！
