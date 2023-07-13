@@ -4,7 +4,7 @@
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width initial-scale=1'>
     <link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
-    <link href='assets/css/typora.css'>
+    <link href='assets/css/typora.css' rel="stylesheet">
     <title>QiuSYan's API</title>
   </head>
   <body class='typora-export os-windows'>
