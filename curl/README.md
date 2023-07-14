@@ -8,11 +8,19 @@
 
 php简单实现随机一言。
 <br>
-调用方式：在命令行中输入
+使用方式：
 
-```bash
-curl https://api.qiusyan.top/curl/yiyan.php 
-```
+- 在命令行中输入
+
+    ```bash
+    curl https://api.qiusyan.top/curl/yiyan.php 
+    ```
+
+    - 浏览器访问
+
+    ```
+    https://api.qiusyan.top/curl/yiyan.php
+    ```
 
 数据文件为 `../data/yiyan-data.dat` ，欢迎PR！
 
@@ -20,9 +28,18 @@ curl https://api.qiusyan.top/curl/yiyan.php
 
 php简单实现获取客户端IP。
 
-调用方式：在命令行中输入
-```bash
-curl https://api.qiusyan.top/curl/ip.php
-```
+使用方式：
 
+- 在命令行中输入
+
+    ```bash
+    curl https://api.qiusyan.top/curl/ip.php
+    ```
+
+- 浏览器访问
+
+    ```
+    https://api.qiusyan.top/curl/ip.php
+    ```
+    
 ## 持续更新中...
