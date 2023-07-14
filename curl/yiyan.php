@@ -13,5 +13,5 @@ $data = file($absPath, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 $result = $data[array_rand($data)];
 $result = trim($result);
 
-echo $result;
+echo $result . "\n";
 ?>
