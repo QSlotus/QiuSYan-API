@@ -16,7 +16,7 @@ php简单实现随机一言。
     curl https://api.qiusyan.top/curl/yiyan.php 
     ```
 
-    - 浏览器访问
+- 浏览器访问
 
     ```
     https://api.qiusyan.top/curl/yiyan.php
@@ -41,5 +41,5 @@ php简单实现获取客户端IP。
     ```
     https://api.qiusyan.top/curl/ip.php
     ```
-    
+
 ## 持续更新中...
