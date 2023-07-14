@@ -4,5 +4,9 @@
       "runtime": "vercel-php@0.6.0"
     }
   },
-  "routes": [{ "src": "/(.*)", "dest": "/api/index.php" }]
+  "routes": [{ "src": "/(.*)", "dest": "/api/index.php" }],
+  "rewrites": [
+    { "source": "/ip", "destination": "/ip.php" },
+    { "source": "/yiyan", "destination": "/yiyan.php" }
+  ]
 }
