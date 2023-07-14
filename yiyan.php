@@ -1,6 +1,6 @@
 <?php
 // 存储数据的文件
-$filename = 'data.dat';        
+$filename = 'data/yiyan-data.dat';        
  
 // 指定页面编码
 header('Content-type: text/html; charset=utf-8');
