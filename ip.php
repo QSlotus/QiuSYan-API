@@ -5,5 +5,5 @@ if (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
   $ip = $_SERVER['REMOTE_ADDR'];
 }
 
-echo $ip . "\n";
+echo 'document.write("'.htmlspecialchars($ip).'");';
 ?>
