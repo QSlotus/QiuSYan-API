@@ -14,7 +14,7 @@ php简单实现随机一言。
 curl https://api.qiusyan.top/curl/yiyan.php 
 ```
 
-数据文件为 `data/yiyan-data.dat` ，欢迎PR！
+数据文件为 `../data/yiyan-data.dat` ，欢迎PR！
 
 ## 获取IP地址
 
