@@ -3,5 +3,5 @@
 $userAgent = $_SERVER['HTTP_USER_AGENT'];
 
 // 输出客户端浏览器 User-Agent
-echo 'document.write("'.htmlspecialchars($userAgent).'");';
+echo $userAgent . "\n";
 ?>
