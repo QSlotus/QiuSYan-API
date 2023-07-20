@@ -42,4 +42,24 @@ php简单实现获取客户端IP。
     https://api.qiusyan.top/curl/ip.php
     ```
 
+
+## 获取客户端User-Agent
+
+php简单实现获取客户端User-Agent
+
+使用方式：
+
+- 在命令行中输入
+
+    ```bash
+    curl https://api.qiusyan.top/curl/ua.php
+    ```
+
+- 浏览器访问
+
+    ```
+    https://api.qiusyan.top/curl/ua.php
+    ```
+
+
 ## 持续更新中...
