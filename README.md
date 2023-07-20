@@ -19,4 +19,14 @@ php简单实现获取客户端IP。
 <script src="https://api.qiusyan.top/ip.php"></script>
 ```
 
+## 获取客户端User-Agent
+
+php简单实现获取客户端User-Agent
+
+调用方式：在HTML页面中插入
+```html
+<script src="https://api.qiusyan.top/ua.php"></script>
+```
+
+
 ## 持续更新中...
