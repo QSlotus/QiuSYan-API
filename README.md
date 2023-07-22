@@ -1,5 +1,9 @@
 # QiuSYan的自建API
 
+
+**如果域名 `api.qiusyan.top` 在你的网络环境下无法访问，那么请将 `api.qiusyan.top` 更换为 `api.qiusyan.link`。**
+
+
 ## 随机一言
 
 php简单实现随机一言。
@@ -8,6 +12,9 @@ php简单实现随机一言。
 ```html
 <script src="https://api.qiusyan.top/yiyan.php"></script>
 ```
+
+</details>
+
 数据文件为 `data/yiyan-data.dat` ，欢迎PR！
 
 ## 获取IP地址
