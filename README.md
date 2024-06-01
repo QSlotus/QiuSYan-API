@@ -1,5 +1,6 @@
 # QiuSYan的自建API
 
+**烂活**
 
 **如果域名 `api.qiusyan.top` 在你的网络环境下无法访问，那么请将 `api.qiusyan.top` 更换为 `api.qiusyan.link`。**
 
